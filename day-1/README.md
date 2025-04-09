@@ -5,7 +5,7 @@ I’m on a mission to deeply understand DevOps, build real-world skills.
 
 ---
 
-## 📅 Day 1 – April 9, 2025
+## 📅 Day 1 – April 2, 2025
 
 ### ✅ What I Learned
 
