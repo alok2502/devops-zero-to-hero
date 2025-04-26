@@ -8,7 +8,7 @@ This day we understood why Pods are not enough for production workloads and expl
 
 We know:
 - In Docker: We run containers via `docker run` with flags for ports, volumes, etc.
-- In Kubernetes: Pods wrap containers and accept these specs via YAML.
+- In Kubernetes: Pods wrap containers and accept these specs via YAML
 
 However, Pods:
 - Are **ephemeral** — if they crash or get deleted, they’re gone.
