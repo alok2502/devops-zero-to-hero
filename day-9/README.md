@@ -1,8 +1,4 @@
 # 🚀 DevOps Journey - Day 9: Introduction to Kubernetes
-
-Welcome to Day 9 of my DevOps learning journey!  
-Today was all about **Kubernetes (a.k.a. K8s)** — the powerful container orchestration platform that solves many real-world problems we face when working with Docker.
-
 ---
 
 ## 🔍 Why Kubernetes?
