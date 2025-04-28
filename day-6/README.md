@@ -45,6 +45,7 @@ CI/CD ensures that applications are delivered **efficiently**, **reliably**, and
     sudo apt-get update
     sudo apt-get install jenkins
 ```
+---
 4. Allowed Inbound Traffic on Port 8080 (via EC2 security group)
 
 5. Accessed Jenkins UI:
