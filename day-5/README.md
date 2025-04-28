@@ -1,9 +1,3 @@
-# DevOps Notes: Infrastructure as Code (IaC)
-
-This document summarizes key learnings about **Infrastructure as Code (IaC)** and tools like Terraform. It is designed to help streamline revision and provide a strong foundation for practical application.
-
----
-
 ## Day 5: Infrastructure as Code (IaC)
 
 ### **Context and Challenges**
