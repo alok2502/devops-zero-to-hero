@@ -18,7 +18,7 @@ But what if we need something **Kubernetes doesn’t provide out of the box?**
 
 Kubernetes allows extension through:
 1. **Custom Resource Definitions (CRD)**
-2. **Custom Resources (CR)**
+2. **Custom Resources (CR)** 
 3. **Custom Controllers**
 
 ---
