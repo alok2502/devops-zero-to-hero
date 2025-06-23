@@ -23,7 +23,7 @@ Before diving into Kubernetes, let’s understand **why** we need it.
 
 ## 🧱 Core Concepts
 
-### Docker vs Kubernetes
+### Docker vs Kubernetes 
 
 | Docker | Kubernetes |
 |--------|------------|
