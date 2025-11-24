@@ -1,4 +1,4 @@
-## Day 5: Infrastructure as Code (IaC)
+## Day 5: Infrastructure as Code (IaC) 
 
 ### **Context and Challenges**
 As a DevOps engineer, managing infrastructure for a large company comes with unique challenges:
