@@ -1,4 +1,4 @@
-# 🚀 DevOps Zero to Hero Journey
+# 🚀 DevOps Zero to Hero Journey 
 
 Welcome to my personal DevOps journey!    
 I’m on a mission to deeply understand DevOps, build real-world skills.  
